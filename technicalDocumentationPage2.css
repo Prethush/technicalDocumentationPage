@@ -1,0 +1,39 @@
+html, body{
+    height:100%;
+}
+#nav-main{
+    
+
+}
+
+#main-content{
+    position: absolute;
+    min-width:290px;
+    margin-left:290px;
+}
+
+.nav-link{
+    
+    text-decoration: none;
+    color: #000;
+    height:100%;
+
+}
+
+#nav-bar li{
+ list-style: none;
+}
+
+
+
+#nav-main  ul{
+  }
+
+  #nav-bar{
+    position: fixed;
+    background-color:red;
+   left:0;
+    top:0;
+    height: 100%;
+    overflow-y:auto;
+  }
